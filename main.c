@@ -17,12 +17,11 @@ int main(int argc, const char * argv[]) {
     srand((unsigned int)(time(NULL)));
     unsigned int X = rand();
     
-    //
+    // Хи-квадрат критерий
     
+    // Покер критерий
     
-    
-    // Васенька, привет))
-    //Hello An-peresunko
+    // Проверка младших битов
     
     
     
